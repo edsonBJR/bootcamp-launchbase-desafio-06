@@ -8,17 +8,6 @@
         "nodemon": "nodemon src/server.js",
         "browsersync": "browser-sync start --proxy http://localhost:5000 --files 'public,src/app/views'"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/edsonBJR/bootcamp-launchbase-desafio-M2.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/edsonBJR/bootcamp-launchbase-desafio-M2/issues"
-    },
-    "homepage": "https://github.com/edsonBJR/bootcamp-launchbase-desafio-M2#readme",
     "dependencies": {
         "express": "^4.17.1",
         "method-override": "^3.0.0",
